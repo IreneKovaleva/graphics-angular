@@ -1,4 +1,4 @@
-import {AfterViewInit, Component, DestroyRef, effect, inject, OnDestroy, OnInit, signal} from '@angular/core';
+import {AfterViewInit, Component, DestroyRef, effect, inject, OnInit, signal} from '@angular/core';
 
 @Component({
   selector: 'app-server-status',
